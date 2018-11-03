@@ -1,2 +1,1 @@
-# didactic-barnacle
-Basic Poll App
+# Basic Poll App
